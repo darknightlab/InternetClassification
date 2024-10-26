@@ -1,0 +1,9 @@
+payload:
+    # 走DIRECT直连
+    # 内容：国内网站列表
+    # 数量：5条
+    - DOMAIN,pve.dnlab.net
+    - DOMAIN-SUFFIX,home.dnlab.net
+    - DOMAIN,login.partner.microsoftonline.cn
+    - DOMAIN-SUFFIX,sharepoint.cn
+    - DOMAIN-SUFFIX,weixinbridge.com
