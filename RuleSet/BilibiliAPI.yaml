@@ -1,0 +1,5 @@
+payload:
+  # 内容：Bilibili API
+  - DOMAIN,www.bilibili.com
+  - DOMAIN-SUFFIX,biliapi.com
+  - DOMAIN-SUFFIX,biliapi.net
