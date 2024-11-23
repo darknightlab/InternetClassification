@@ -7,4 +7,4 @@ payload:
     - DOMAIN,changelog.projectk.org
     - DOMAIN,opg.optica.org
     - DOMAIN,optics.ansys.com
-    - IP-CIDR,240c:c000::/20
+    - IP-CIDR,240c:c000::/20,no-resolve
