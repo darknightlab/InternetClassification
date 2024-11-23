@@ -1,6 +1,7 @@
 payload:
   # 内容：用来更改哔哩哔哩地区
   - DOMAIN,www.bilibili.com
+  - DOMAIN,app.bilibili.com
   - DOMAIN,api.bilibili.com
   # - DOMAIN-SUFFIX,biliapi.com
   # - DOMAIN-SUFFIX,biliapi.net
