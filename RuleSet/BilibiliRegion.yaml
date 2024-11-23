@@ -3,5 +3,6 @@ payload:
   - DOMAIN,www.bilibili.com
   - DOMAIN,search.bilibili.com
   - DOMAIN,api.bilibili.com
-  - DOMAIN,app.bilibili.com
-  - DOMAIN,data.biliapi.com
+  - DOMAIN,grpc.biliapi.net
+  # - DOMAIN,app.bilibili.com
+  # - DOMAIN,data.biliapi.com
