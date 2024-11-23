@@ -1,8 +1,0 @@
-payload:
-    # 内容：国外网站/需要挂代理才能正常使用的网站列表
-    # 数量：5条
-    - DOMAIN,www.bing.com
-    - DOMAIN,sydney.bing.com
-    - DOMAIN,copilot.microsoft.com
-    - DOMAIN-SUFFIX,qbittorrent.org
-    - DOMAIN,tracker.projectk.org
