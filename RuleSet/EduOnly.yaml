@@ -7,3 +7,4 @@ payload:
   - DOMAIN,changelog.projectk.org
   - DOMAIN,opg.optica.org
   - DOMAIN,optics.ansys.com
+  - DOMAIN-SUFFIX,quantum.ibm.com
